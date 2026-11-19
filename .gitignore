@@ -3,3 +3,5 @@ gen/
 node_modules/
 TASK.md
 prompt.txt
+transcripts.tar.gz
+.workbuddy/
